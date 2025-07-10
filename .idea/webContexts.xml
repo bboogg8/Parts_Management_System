@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/customer/content.jsp" value="file://$PROJECT_DIR$/web/customer" />
+        <entry key="file://$PROJECT_DIR$/web/customer/dashboard.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/customer/header.jsp" value="file://$PROJECT_DIR$/web/customer" />
+        <entry key="file://$PROJECT_DIR$/web/customer/index.html" value="file://$PROJECT_DIR$/web/customer" />
+        <entry key="file://$PROJECT_DIR$/web/footer.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/index.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/maintainer/list_part.jsp" value="file://$PROJECT_DIR$/web/maintainer" />
+        <entry key="file://$PROJECT_DIR$/web/modify.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/register.jsp" value="file://$PROJECT_DIR$/web" />
+      </map>
+    </option>
+  </component>
+</project>

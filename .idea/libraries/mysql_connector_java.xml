@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Roaming/JetBrains/DataGrip2024.2/jdbc-drivers/MySQL ConnectorJ/8.2.0/com/mysql/mysql-connector-j/8.2.0/mysql-connector-j-8.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
